@@ -1,0 +1,7 @@
+{
+  "name": "VelvetMatch",
+  "description": "A boutique, AI-powered makeup shade matcher that analyzes your skin tone to find your perfect handcrafted look.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
